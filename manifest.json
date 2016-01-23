@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  
+  "name": "Dark Messenger",
+  "description": "Changes default Facebook Messenger styling to a dark theme.",
+  "version": "0.1",
+  "icons": { "16": "icon.png",
+           "48": "icon.png",
+          "128": "icon.png" },
+  
+ "content_scripts": [
+    {
+      "matches": ["https://www.messenger.com/*"],
+      "css": ["style.css"],
+	  "run_at": "document_end"
+    }
+  ]
+}
