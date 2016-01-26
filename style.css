@@ -2,6 +2,11 @@ body {
     background: #1E2124 !important;
     color: #b2b3b8 !important;
 }
+div {
+	border-color: rgba(223, 224, 230, 0.10) !important;
+	/*border: 0 !important;*/
+	margin-left: -1px;
+}
 .uiScrollableArea.nofade .uiScrollableAreaWrap,
 .uiScrollableArea.fade .uiScrollableAreaWrap {
     background: #2E3136 !important;
@@ -37,11 +42,6 @@ body {
 ._17w2 {
     color: #b2b3b8 !important;
 }
-div {
-	border-color: rgba(223, 224, 230, 0.10) !important;
-	/*border: 0 !important;*/
-	margin-left: -1px;
-}
 ._5l38 {
 		border-top: 0 !important;
 		border-bottom: 0 !important;
@@ -57,7 +57,7 @@ div {
 ._36ic {
     background: #2E3136 !important;
     color: #b2b3b8 !important;
-	margin-left: 8px !important;
+	padding-left: 8px !important;
 }
 ._5l37:first-of-type {
     background: none !important;
@@ -164,5 +164,5 @@ input:placeholder-shown {
 	padding-right: 22px !important;
 }
 ._o46:last-child ._4jzq {
-	margin-right: 8px !important;
+	margin-right: 2px !important;
 }
