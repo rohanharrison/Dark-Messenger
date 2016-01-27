@@ -1,7 +1,8 @@
-# Dark-Messenger
-Changes default Facebook Messenger styling to a dark theme.
-
+# dark messenger
 Published: https://goo.gl/6jkkNU
 
-Uses JS/CSS injection into the Facebook Messenger website to create a theme which is easier on the users eyes.
+# Description
+I made a Google Chrome extension that will convert the default Facebook Messenger (www.messenger.com) from its native bright white theme, to a muted black and grey theme which will be easier on the users eye.
 
+# Technology
+The extension uses Google's Content Script to detect www.messenger.com. Once this is detected, it overwrites (by injection) the native messenger CSS.
