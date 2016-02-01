@@ -3,7 +3,7 @@
   
   "name": "Dark Messenger",
   "description": "Changes default Facebook Messenger styling to a dark theme.",
-  "version": "0.13",
+  "version": "0.14",
   "icons": { "16": "icon.png",
            "48": "icon.png",
           "128": "icon.png" },
