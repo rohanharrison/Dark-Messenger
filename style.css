@@ -35,6 +35,9 @@ div {
 ._29_7:first-of-type ._3058:first-of-type ._52mr:first-of-type {
     border-top-left-radius: .4em !important;
 }
+._3x6u {
+	color: #b2b3b8 !important;
+}
 ._29_7 ._52mr {
     border-bottom-right-radius: .4em !important;
     border-top-right-radius: .4em !important;
@@ -208,4 +211,7 @@ input:placeholder-shown {
 }
 ._o46:last-child ._4jzq {
     margin-right: 2px !important;
+}
+._3xn7._3xn3 {
+	background-color: #f1f0f0 !important;
 }
