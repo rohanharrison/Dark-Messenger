@@ -221,3 +221,6 @@ input:placeholder-shown {
 ._nd_ ._hh7[style*="background-color: rgb(255, 195, 0);"] {
 	color: black;
 }
+._nd_ ._hh7[style="background-color: rgb(255, 195, 0);"] a {
+	color: darkblue;
+}
